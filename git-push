@@ -1,0 +1,4 @@
+git clone <folder link>
+git add .
+git commmit -m "comment"
+git push origin main
